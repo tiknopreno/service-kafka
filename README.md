@@ -2,6 +2,7 @@
 docker compose up -d
 
 # BPMN
+Name file : BPMN DIAGRAM.png
 Penjelasan alur prose :
 * Start
 * User : Trigger dari rest api /api/checkout
